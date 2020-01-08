@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+}
+img.drie{
+    display: block;
+    margin-top: 10px;
+}
+section.apple{
+    width: 50%;
+    float: left;
+}
+div.holder {
+    background-color: rgb(251,235,235);
+    width: 1028px;
+    margin:auto;
+    padding: 40px;
+}
+article {
+    display:inline-block;
+    width:33%;
+
+}
+img.foot{
+
+}
+nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+nav a {
+    margin-right: 20px;
+
+}
+a.link{
+    float: left;
+    margin-top: 10px;
+}
