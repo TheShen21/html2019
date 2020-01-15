@@ -1,0 +1,92 @@
+form ul {
+    list-style-type: none;
+    padding: 0;
+}
+div.form{
+    width: 300px;
+    padding: 10px;
+
+}
+input.naam {
+    float: right;
+}
+input.knop {
+    margin-left: 10px;
+}
+input.radio{
+    margin-left: 60px;
+}
+select{
+    width: 120px;
+    float: right;
+    margin-right: 55px;
+}
+
+div.holder {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(251,235,235);
+    padding: 20px;
+}
+input.lekker1{
+    bottom: 698px;
+    left: 940px;
+    float: left;
+    position: absolute;
+}
+input.lekker2{
+    bottom: 678px;
+    left: 940px;
+    float: left;
+    position: absolute;
+}
+input.lekker3{
+    bottom: 658px;
+    left: 940px;
+    float: left;
+    position: absolute;
+}
+label.lekkerLabel{
+    bottom: 700px;
+    left: 850px;
+    float: left;
+    position: absolute;
+}
+span.N1{
+    bottom: 700px;
+    left: 960px;
+    float: left;
+    position: absolute;
+}
+span.N2{
+    bottom: 680px;
+    left: 960px;
+    float: left;
+    position: absolute;
+}
+span.N3{
+    bottom: 660px;
+    left: 960px;
+    float: left;
+    position: absolute;
+}
+input.geboorte{
+    width: 140px;
+    float: right;
+    margin-right: 30px;
+}
+textarea.text{
+    float: right;
+    width: 220px;
+    height: 80px;
+}
+div.form1{
+    width: 350px;
+    padding: 10px;
+}
+input.knop{
+    margin-left: 575px;
+}
+input.knop1{
+    margin-left: 10px;
+}
